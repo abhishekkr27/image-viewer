@@ -1,0 +1,21 @@
+.edit-image-page {
+  text-align: center;
+  padding: 20px;
+}
+
+.canvas-container {
+  position: relative;
+  width: 800px;
+  height: 600px;
+  margin: auto;
+}
+
+canvas {
+  border: 1px solid #000;
+}
+
+.controls {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 20px;
+}
